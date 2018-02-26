@@ -1,8 +1,8 @@
 k=int(raw_input())
-x=1
-y=1
+a=1
+b=1
 for i in range(1,k+1):
-     print x
-     z=x+y
-     x=y
-     y=z
+     print a
+     z=a+b
+     a=b
+     b=z
