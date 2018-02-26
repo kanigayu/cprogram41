@@ -1,7 +1,7 @@
-n=int(raw_input())
+k=int(raw_input())
 x=1
 y=1
-for i in range(1,n+1):
+for i in range(1,k+1):
      print x
      z=x+y
      x=y
